@@ -47,7 +47,7 @@ public class GameFrame extends JFrame implements Runnable, ActionListener {
 
         // Add the Snake game
         snake.setVisible(false);
-        snake.Quit.addActionListener(this);
+        snake.quitButton.addActionListener(this);
         add(snake);
 
         // App icon
@@ -151,7 +151,7 @@ public class GameFrame extends JFrame implements Runnable, ActionListener {
             menu.setVisible(true);
             tictactoe.setVisible(false);
         }
-        if (e.getSource() == snake.Quit) {
+        if (e.getSource() == snake.quitButton) {
             menu.setVisible(true);
             snake.endGame();
             snake.setVisible(false);
