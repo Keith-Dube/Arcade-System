@@ -1,0 +1,108 @@
+
+
+Version:	3.50
+CmdLine:	C:\Users\NF\Personal Projects\Arcade System\404 Arcade.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\NF\Personal Projects\Arcade System\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.008.000
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\java8path;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Novell\iPrint;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\dotnet\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Users\NF\php;C:\Users\NF\Gradle\gradle-8.13\bin;C:\CocoR\;C:\Program Files\Java\jdk-25\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\java8path;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Novell\iPrint;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\dotnet\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Users\NF\php;C:\Users\NF\Gradle\gradle-8.13\bin;C:\CocoR\;C:\CocoR;C:\Users\NF\AppData\Local\Programs\Python\Launcher\;C:\Users\NF\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA 2023.3.5\bin;;C:\Users\NF\AppData\Local\Programs\Microsoft VS Code\bin;C:\msys64\clang64\bin;C:\Users\NF\.dotnet\tools;C:\Users\NF\AppData\Roaming\npm;;C:\Program Files\Java\jdk-25\bin;C:\Program Files\Java\jdk-25\bin
+JRE paths:	;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\java8path;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Novell\iPrint;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\dotnet\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Users\NF\php;C:\Users\NF\Gradle\gradle-8.13\bin;C:\CocoR\;C:\Program Files\Java\jdk-25\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\java8path;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Novell\iPrint;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\dotnet\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Users\NF\php;C:\Users\NF\Gradle\gradle-8.13\bin;C:\CocoR\;C:\CocoR;C:\Users\NF\AppData\Local\Programs\Python\Launcher\;C:\Users\NF\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA 2023.3.5\bin;;C:\Users\NF\AppData\Local\Programs\Microsoft VS Code\bin;C:\msys64\clang64\bin;C:\Users\NF\.dotnet\tools;C:\Users\NF\AppData\Roaming\npm;;C:\Program Files\Java\jdk-25\bin;C:\Program Files\Java\jdk-25\bin
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Common Files\Oracle\Java\java8path\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Novell\iPrint\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Microsoft SQL Server\150\Tools\Binn\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\dotnet\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\nodejs\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Git\cmd\bin\javaw.exe (not found)
+Check launcher:	C:\Users\NF\php\bin\javaw.exe (not found)
+Check launcher:	C:\Users\NF\Gradle\gradle-8.13\bin\javaw.exe (not found)
+Check launcher:	C:\CocoR\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk-25\bin\javaw.exe (OK)
+Version string: 1.025.000_001 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-25\bin\javaw.exe
+Launcher args:	-jar "C:\Users\NF\Personal Projects\Arcade System\404 Arcade.exe"
+Args length:	65/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\NF\Personal Projects\Arcade System\404 Arcade.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\NF\Personal Projects\Arcade System\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.008.000
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\java8path;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Novell\iPrint;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\dotnet\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Users\NF\php;C:\Users\NF\Gradle\gradle-8.13\bin;C:\CocoR\;C:\Program Files\Java\jdk-25\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\java8path;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Novell\iPrint;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\dotnet\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Users\NF\php;C:\Users\NF\Gradle\gradle-8.13\bin;C:\CocoR\;C:\CocoR;C:\Users\NF\AppData\Local\Programs\Python\Launcher\;C:\Users\NF\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA 2023.3.5\bin;;C:\Users\NF\AppData\Local\Programs\Microsoft VS Code\bin;C:\msys64\clang64\bin;C:\Users\NF\.dotnet\tools;C:\Users\NF\AppData\Roaming\npm;;C:\Program Files\Java\jdk-25\bin;C:\Program Files\Java\jdk-25\bin
+JRE paths:	;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\java8path;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Novell\iPrint;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\dotnet\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Users\NF\php;C:\Users\NF\Gradle\gradle-8.13\bin;C:\CocoR\;C:\Program Files\Java\jdk-25\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\java8path;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Novell\iPrint;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\dotnet\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Users\NF\php;C:\Users\NF\Gradle\gradle-8.13\bin;C:\CocoR\;C:\CocoR;C:\Users\NF\AppData\Local\Programs\Python\Launcher\;C:\Users\NF\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA 2023.3.5\bin;;C:\Users\NF\AppData\Local\Programs\Microsoft VS Code\bin;C:\msys64\clang64\bin;C:\Users\NF\.dotnet\tools;C:\Users\NF\AppData\Roaming\npm;;C:\Program Files\Java\jdk-25\bin;C:\Program Files\Java\jdk-25\bin
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Common Files\Oracle\Java\java8path\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Novell\iPrint\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Microsoft SQL Server\150\Tools\Binn\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\dotnet\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\nodejs\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Git\cmd\bin\javaw.exe (not found)
+Check launcher:	C:\Users\NF\php\bin\javaw.exe (not found)
+Check launcher:	C:\Users\NF\Gradle\gradle-8.13\bin\javaw.exe (not found)
+Check launcher:	C:\CocoR\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk-25\bin\javaw.exe (OK)
+Version string: 1.025.000_001 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-25\bin\javaw.exe
+Launcher args:	-jar "C:\Users\NF\Personal Projects\Arcade System\404 Arcade.exe"
+Args length:	65/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\NF\Personal Projects\Arcade System\404 Arcade.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\NF\Personal Projects\Arcade System\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.008.000
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\java8path;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Novell\iPrint;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\dotnet\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Users\NF\php;C:\Users\NF\Gradle\gradle-8.13\bin;C:\CocoR\;C:\Program Files\Java\jdk-25\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\java8path;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Novell\iPrint;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\dotnet\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Users\NF\php;C:\Users\NF\Gradle\gradle-8.13\bin;C:\CocoR\;C:\CocoR;C:\Users\NF\AppData\Local\Programs\Python\Launcher\;C:\Users\NF\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA 2023.3.5\bin;;C:\Users\NF\AppData\Local\Programs\Microsoft VS Code\bin;C:\msys64\clang64\bin;C:\Users\NF\.dotnet\tools;C:\Users\NF\AppData\Roaming\npm;;C:\Program Files\Java\jdk-25\bin;C:\Program Files\Java\jdk-25\bin
+JRE paths:	;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\java8path;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Novell\iPrint;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\dotnet\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Users\NF\php;C:\Users\NF\Gradle\gradle-8.13\bin;C:\CocoR\;C:\Program Files\Java\jdk-25\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\java8path;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Novell\iPrint;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\dotnet\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Users\NF\php;C:\Users\NF\Gradle\gradle-8.13\bin;C:\CocoR\;C:\CocoR;C:\Users\NF\AppData\Local\Programs\Python\Launcher\;C:\Users\NF\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA 2023.3.5\bin;;C:\Users\NF\AppData\Local\Programs\Microsoft VS Code\bin;C:\msys64\clang64\bin;C:\Users\NF\.dotnet\tools;C:\Users\NF\AppData\Roaming\npm;;C:\Program Files\Java\jdk-25\bin;C:\Program Files\Java\jdk-25\bin
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Common Files\Oracle\Java\java8path\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Novell\iPrint\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Microsoft SQL Server\150\Tools\Binn\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\dotnet\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\nodejs\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Git\cmd\bin\javaw.exe (not found)
+Check launcher:	C:\Users\NF\php\bin\javaw.exe (not found)
+Check launcher:	C:\Users\NF\Gradle\gradle-8.13\bin\javaw.exe (not found)
+Check launcher:	C:\CocoR\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk-25\bin\javaw.exe (OK)
+Version string: 1.025.000_001 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-25\bin\javaw.exe
+Launcher args:	-jar "C:\Users\NF\Personal Projects\Arcade System\404 Arcade.exe"
+Args length:	65/32768 chars
+Exit code:	0
